@@ -1,0 +1,25 @@
+.logo{
+	padding-left: 30px;
+}
+
+.motto{
+	letter-spacing: 4px;
+	padding-top: 25px;
+	padding-right: 20px;
+}
+
+.nav-text{
+	text-decoration: none;
+	font-size: 12px;
+	letter-spacing: 5px;
+}
+
+.navbar-nav{
+	color: #fff;
+	height: 70px;
+	padding-top: 10px;
+}
+
+.sidebar{
+	background: #8AC007;
+}
